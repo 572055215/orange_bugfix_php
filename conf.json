@@ -1,0 +1,11 @@
+{
+    "name": "PHP 8.0 兼容",
+    "brief": "修复了 Xiuno BBS 4.0 无法与 PHP 8.0 或更高版本兼容的问题。</br>新内容</br>• 修复了一些已知错误。</br>Copyright © 2024 Orange Inc. All rights reserved. ",
+    "version": "1.0.0",
+    "bbs_version": "4.0",
+    "installed": 0,
+    "enable": 0,
+    "hooks_rank": [],
+    "overwrites_rank": [],
+    "dependencies": []
+}
